@@ -1,0 +1,74 @@
+table {
+    border-collapse: collapse;
+    align-items: center;
+    
+    margin: 0 auto;
+    text-align: center;
+    height : 50vh;
+    
+    
+}
+#title{
+    justify-content: center;
+    display:flex;
+}
+
+table, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: white;
+}
+td {
+    font-size: 15;
+    width: 35px;
+    height: 35px;
+
+}
+
+body {
+    background-color:white;
+   
+}
+.input{
+    height : 30px;
+    padding: 20;
+    width: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: white;
+}
+
+#buttons {
+    display:flex;
+    justify-content: center;
+    
+    margin: 5% auto;
+    
+    
+    bottom: 10%;
+    
+    visibility: hidden;
+    
+}
+#head{
+    top: 0;
+    left: 0;
+    border: 2px solid black;
+    background-color: antiquewhite;
+    
+}
+
+button{
+    background-color: white;
+    left: 20;
+    right: 20;
+}
+
+#\31 {
+    background-color: lightblue;
+    }
+#board_manip{
+    justify-content: center;
+    display:flex;
+    margin: 0 auto;
+    }
